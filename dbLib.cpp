@@ -8,7 +8,7 @@
 *               This file implements functions used for database management
 * =========================================================================================
 */
-//modified: 07/08/2018
+//modified: 07/08/2018 s?a l?n 1
 #include "dbLib.h"
 
 #include <time.h>
