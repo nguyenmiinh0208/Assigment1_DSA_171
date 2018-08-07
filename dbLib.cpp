@@ -8,7 +8,11 @@
 *               This file implements functions used for database management
 * =========================================================================================
 */
+<<<<<<< HEAD
 //modified: 07/08/2018 changed 1th
+=======
+//modified: 07/08/2018
+>>>>>>> parent of 95360b5... Changed 1th
 #include "dbLib.h"
 
 #include <time.h>
